@@ -1,1 +1,2 @@
 # Projects
+The inflation project's purpose was to estimate the CPI inflation rate in the first quarter of 2022. The numbers used were found on the Federal Reserve of Economic Data. There was a year restriction, to only include from the year 1980 to 2021 in the data itself. The most important factor is the data used is measured in personal income expenses. The regression is combined with the data to find the CHANGE in personal income expenses. 
