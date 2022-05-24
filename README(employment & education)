@@ -1,0 +1,7 @@
+The aim of this project was to see if there is any relationship between the unemployment rate and education level. The data used was taken from the 
+Integrated Public Use Microdata series. There were some restrictions used to create important variables. The best way to make those is by changing them into dummmy
+variables. This changes data from categorical to quantitative binomial variables. Usually, the variable can have two values, 1 or 0. 1 indicates the variable's
+effect is present in the data. It is 0 if there is no effect. The data sample used was to only include anyone who was in the labor force between February and May of
+2020. The other important variable was used to only have anyone who has an education obtainment from high school to a doctorate degree. The model used to perform the 
+analysis is the linear regression model. This model uses a dependent variable on the left hand side. One or more independent right hand side variables are also used. 
+The final step is to print the results. 
