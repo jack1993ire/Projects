@@ -1,0 +1,5 @@
+The objective of the CPI inflation assignmment was to estimate the inflation rate in the first quarter of 2022. The data for the assignment was taken from the Federal 
+Reserve Economic Data. The data sample used quarterly Personal Consumption Expenditures (PCE). I had to create another variable, Change in Personal Consumption 
+Expenditures. Several lag variables were included. A lag is used to predict a value based on previous values. It had to be used because the data taken from FRED is time 
+series data, data that changes over a certain time interval. There were no other variables used. The regression model used was a linear regression, where is one left hand 
+side dependent variable and one or more right hand side independent variables. 
